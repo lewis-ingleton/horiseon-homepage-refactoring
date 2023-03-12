@@ -5,12 +5,12 @@ In this challenge I have refactored the existing HTML and CSS files in order to 
 ## Actions taken
 
 In this challenge I focused on:  
-    - adding alt descriptions to images 
-    - removing duplicate CSS 
-    - replacing div tags with correct tags e.g. aside, footer, section
-    - adding anchor links 
-    - added comments to html and css files 
-    - adding meta description in head tag
+- adding alt descriptions to images 
+- removing duplicate CSS 
+- replacing div tags with correct tags e.g. aside, footer, section
+- adding anchor links 
+- added comments to html and css files 
+- adding meta description in head tag
 
 ## URL
 
