@@ -18,4 +18,4 @@ https://lewis-ingleton.github.io/horiseon-homepage-refactoring/
 
 ## Screenshot
 
-![alt text](https://github.com/lewis-ingleton/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/lewis-ingleton/horiseon-homepage-refactoring/blob/main/assets/Final%20page%20screenshot/horiseon-final-page-screenshot.png?raw=true)
