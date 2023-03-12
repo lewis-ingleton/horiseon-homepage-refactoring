@@ -1,8 +1,8 @@
-# Horiseon homepage (challenge-01)
+# Horiseon homepage refactoring
 
-This challenge was to improve the accessibility and semantic structure of the html and CSS of Horiseon's homepage.
+In this challenge I have refactored the existing HTML and CSS files in order to improve the accesibility and semantic structure of the Horiseon homepage.
 
-## Description
+## Actions taken
 
 In this challenge I focused on:  
     - adding alt descriptions to images 
@@ -12,13 +12,4 @@ In this challenge I focused on:
 
 ## URL
 
-https://phillip-flop.github.io/challenge-01/
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+https://lewis-ingleton.github.io/horiseon-homepage-refactoring/
