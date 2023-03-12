@@ -9,7 +9,13 @@ In this challenge I focused on:
     - removing duplicate CSS 
     - replacing div tags with correct tags e.g. aside, footer, section
     - adding anchor links 
+    - added comments to html and css files 
+    - adding meta description in head tag
 
 ## URL
 
 https://lewis-ingleton.github.io/horiseon-homepage-refactoring/
+
+## Screenshot
+
+![alt text](https://github.com/lewis-ingleton/[reponame]/blob/[branch]/image.jpg?raw=true)
