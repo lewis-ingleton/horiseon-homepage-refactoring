@@ -7,7 +7,7 @@ In this challenge I have refactored the existing HTML and CSS files in order to 
 In this challenge I focused on:  
     - adding alt descriptions to images 
     - removing duplicate CSS 
-    - replacing <div>'s with correct tags e.g. <aside>, <footer>, <section>
+    - replacing div tags with correct tags e.g. aside, footer, section
     - adding anchor links 
 
 ## URL
